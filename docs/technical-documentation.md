@@ -10,7 +10,7 @@ css/styles.css: Visual design, responsive layout, animations, and themes
 js/script.js: Interactivity, state, API integration, validation, filtering, sorting, and dialogs
 assets/images/: Optimized SVG images used in the application
 docs/: AI usage and technical documentation
-presentation/: Slides, demo-video support file, and presentation script
+presentation/: Slides, demo-video support file.
 ```
 
 ## Key Features
