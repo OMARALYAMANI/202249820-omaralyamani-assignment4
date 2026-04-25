@@ -58,7 +58,7 @@ Alternative: double-click `index.html` to open it directly in a browser.
 ├── presentation/
 │   ├── slides.pdf
 │   ├── demo-video.mp4
-│   └── presentation-script.md
+│   
 └── .gitignore
 ```
 
